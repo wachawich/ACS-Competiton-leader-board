@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import  { useState, useEffect } from 'react';
 import axios from 'axios';
 import "./App.css"
+// import Leader from "./page/leader_board/leader";
 
 // call api
 
@@ -60,6 +61,9 @@ function App() {
                 </div>
                 
            </section>
+           {/* <section element={<Leader/>}>
+                <Leader/>
+           </section> */}
         </div>
     )
 }
