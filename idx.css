@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100vmin;
+    position: relative;
+    overflow-x: hidden;
+    background: linear-gradient(255deg,#eedbff,#b2faff);
+  }
+#root{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
