@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ACS-Competiton-leader-board/static/css/main.44961a45.css",
-    "main.js": "/ACS-Competiton-leader-board/static/js/main.fb2db87a.js",
+    "main.js": "/ACS-Competiton-leader-board/static/js/main.af425940.js",
     "static/js/787.06559d60.chunk.js": "/ACS-Competiton-leader-board/static/js/787.06559d60.chunk.js",
     "index.html": "/ACS-Competiton-leader-board/index.html",
     "main.44961a45.css.map": "/ACS-Competiton-leader-board/static/css/main.44961a45.css.map",
-    "main.fb2db87a.js.map": "/ACS-Competiton-leader-board/static/js/main.fb2db87a.js.map",
+    "main.af425940.js.map": "/ACS-Competiton-leader-board/static/js/main.af425940.js.map",
     "787.06559d60.chunk.js.map": "/ACS-Competiton-leader-board/static/js/787.06559d60.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.44961a45.css",
-    "static/js/main.fb2db87a.js"
+    "static/js/main.af425940.js"
   ]
 }
