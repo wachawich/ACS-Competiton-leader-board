@@ -5,6 +5,7 @@ import Leader from "./page/leader_board/leader";
 
 import "./index.css"
 
+
 function Toute() {
   return (
     <div className="route">
